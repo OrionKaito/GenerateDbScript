@@ -1,0 +1,16 @@
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\bin\Release\App.config
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\bin\Release\DynamicSystem.exe.config
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\bin\Release\DynamicSystem.exe
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\bin\Release\DynamicSystem.pdb
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\bin\Release\Newtonsoft.Json.dll
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\bin\Release\Newtonsoft.Json.xml
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.Views.ConfigurationView.resources
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.Views.ConnectionStringView.resources
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.GenerateScriptView.resources
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.Properties.Resources.resources
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.Views.MenuView.resources
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.csproj.GenerateResource.cache
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.csproj.CoreCompileInputs.cache
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.csproj.CopyComplete
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.exe
+D:\Project\C#\2019\November\DynamicSystem\DynamicSystem\obj\Release\DynamicSystem.pdb
